@@ -1,4 +1,4 @@
-Store Sales Dashboard
+**Store Sales Dashboard**
 
 📌 Problem Statement
 
