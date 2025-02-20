@@ -42,7 +42,7 @@ Python (if applicable) → For data preprocessing
 
 Pandas, NumPy → Data handling & manipulation
 
-Excel / CSV → Data source
+Excel → Data source
 
 📂 Dataset Information
 
