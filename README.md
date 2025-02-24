@@ -1,14 +1,14 @@
-**Store Sales Dashboard**
+# Store Sales Dashboard
 
-📌 Problem Statement
+# 📌 Problem Statement
 
 The objective of this project is to analyze the sales performance of a store and provide actionable insights through an interactive dashboard. This dashboard helps businesses understand sales trends, category-wise performance, regional sales distribution, and forecast future sales for better decision-making.
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project utilizes Power BI to create a comprehensive Sales Dashboard that provides deep insights into sales trends, customer segmentation, and future forecasts.
 
-🎯 Features
+# 🎯 Features
 
 Page 1: Sales Overview
 
@@ -34,7 +34,7 @@ Page 2: Sales Forecasting
 
 15-Day Forecast → Performed using time series analysis and displayed with a Line Chart.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Power BI → Dashboard Development
 
@@ -44,7 +44,7 @@ Pandas, NumPy → Data handling & manipulation
 
 Excel → Data source
 
-📂 Dataset Information
+# 📂 Dataset Information
 
 The dataset contains sales transactions, including:
 
@@ -58,7 +58,7 @@ Sales, Profit, Quantity, and Delivery Time
 
 Date of Transaction (for forecasting)
 
-🚀 Installation & Setup
+# 🚀 Installation & Setup
 
 1️⃣ Clone the Repository
 
@@ -73,7 +73,7 @@ Open the .pbix file from the repository.
 
 Ensure the dataset is correctly loaded.
 
-📊 Usage Guide
+# 📊 Usage Guide
 
 Navigate to Page 1 for an overview of sales performance.
 
@@ -81,7 +81,7 @@ Switch to Page 2 for 15-day sales forecasting insights.
 
 Interact with filters to explore specific regions, categories, or timeframes.
 
-🔥 Future Enhancements
+# 🔥 Future Enhancements
 
 Improve forecasting model with advanced machine learning techniques.
 
