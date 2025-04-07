@@ -58,6 +58,15 @@ Sales, Profit, Quantity, and Delivery Time
 
 Date of Transaction (for forecasting)
 
+# Project Preview
+
+![image](https://github.com/user-attachments/assets/94650c45-1de0-4cb2-99c5-e8d7adfa0bd5)
+
+
+![image](https://github.com/user-attachments/assets/3208fe9b-3ef6-452e-a51a-960a0ec07ebb)
+
+
+
 # 🚀 Installation & Setup
 
 1️⃣ Clone the Repository
